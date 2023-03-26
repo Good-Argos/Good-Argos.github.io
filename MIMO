@@ -1,18 +1,19 @@
 theme: Architect
 <!doctype html>
 <html>
-  <title>A List</title>
-    <h1>Hello World!</h1>
-    <body>
-    <p>
-    Here's a list of <em>music</em>;<br>
-    *Yellow Submarine - Beatles<br>
-    *<strong>Rocky Racoon - Beatles</strong><br>
-    *The Continuing Story of Bungalow Bill - Beatles<br>
-    *Lady Madonna - Beatles<br>
-    *Maxwell's Silver Hammer - Beatles<br>
-    *Golden Slumbers - Beatles<br>
-    *Hey Jude - Beatles
-    </p>
-  </body>
+  <head>
+    <title>A List</title>
+  </head>
+      <body>
+         <h1>Hello World!</h1>
+    <pre>
+    Here's a list of <em>music</em>;
+    *Yellow Submarine - Beatles
+    *<strong>Rocky Racoon - Beatles</strong>
+    *The Continuing Story of Bungalow Bill - Beatles
+    *Lady Madonna - Beatles
+    *Maxwell's Silver Hammer - Beatles
+    *Golden Slumbers - Beatles
+    </pre>
+      </body>
 </html>
